@@ -32,7 +32,7 @@
 ;;
 ;;; Code:
 
-(require 'cl-lib)
+(require 'dired)
 (require 'evil)
 
 (evil-define-state dired
